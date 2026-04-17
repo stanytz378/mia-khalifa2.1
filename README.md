@@ -16,7 +16,7 @@ Welcome to **champs md**, an open-source WhatsApp bot developed by StanyTz. This
 
 This is Important To Run Your Bot
 
-<a href="https://session-id-generator-4xuy.onrender.com/"><img title="PAIR AND GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=indigo&style=for-the-badge&logo=msi"></a>
+<a href="https://pairing-web-su41.onrender.com/"><img title="PAIR AND GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=indigo&style=for-the-badge&logo=msi"></a>
 
 <a href="https://github.com/Stanytz378/mia-khalifa2.1/fork"><img title="Fork Repo" src="https://img.shields.io/badge/Fork Repo-h?color=brown&style=for-the-badge&logo=stackshare"></a>
 
