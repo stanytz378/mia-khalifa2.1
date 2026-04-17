@@ -7,12 +7,12 @@
   "env": {
     "SESSION_ID": {
       "description": "Your session ID from web (format: Stanytz378/iamlegendv2_xxxx.",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number (without +, e.g., 255787079580).",
-      "required": true,
+      "required": false,
       "value": "255787079580"
     },
     "BOT_NAME": {
@@ -33,7 +33,7 @@
     "ANTICALL_ENABLED": {
       "description": "Enable anticall feature (true/false).",
       "required": false,
-      "value": "true"
+      "value": "false"
     }
   },
   "buildpacks": [
