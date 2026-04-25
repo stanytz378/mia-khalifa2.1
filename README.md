@@ -16,7 +16,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
-<a href="https://github.com/clevertechnexus2"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-STANY TZ-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Stanytz378"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-STANY TZ-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Stanytz378?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Stanytz378?label=Followers&style=social"></a>
@@ -73,7 +73,7 @@
 </p>
 <p align="center">
 ⚠️ Session ID must start with  
-<b>BlackHat~</b>
+<b>Stanytz378/iamlegendv2xx</b>
 </p>
 
 </details>
@@ -84,7 +84,7 @@
 <summary>TAP TO OPEN</summary>
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Heroku Signup" width="150"></a>
   
-<a href="https://dashboard.heroku.com/new?template=https://github.com/clevertechnexus2/black-hat-md"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy on Heroku" width="150"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Stanytz378/mia-khalifa2.1"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy on Heroku" width="150"></a>
 
 - PostgreSQL is **auto-provisioned** via the `heroku-postgresql:essential-0` addon — no manual setup needed.
 - All environment variables are pre-filled from `app.json`. Just add your `SESSION_ID`.
@@ -95,7 +95,7 @@
 **(B) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://github.com/clevertechnexus2/black-hat-md/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Bot Hosting Files" width="150"></a>
+<a href="https://github.com/Stanytz378/mia-khalifa2.1/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Bot Hosting Files" width="150"></a>
 
 <a href="https://bot-hosting.net/?aff=1357362933151305758"><img src="https://img.shields.io/badge/SIGNUP-gold" alt="Bot Hosting Signup" width="150"></a>
 
@@ -173,7 +173,7 @@
 **(F) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://github.com/clevertechnexus2/black-hat-md/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Bot Hosting Files" width="150"></a>
+<a href="https://github.com/Stanytz378/mia-khalifa2.1/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Bot Hosting Files" width="150"></a>
 
 <a href="https://bot-hosting.net/?aff=1357362933151305758"><img src="https://img.shields.io/badge/SIGNUP-gold" alt="Bot Hosting Signup" width="150"></a>
 
@@ -192,8 +192,8 @@
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/clevertechnexus2/black-hat-md.git
-cd black-hat-md
+git clone https://github.com/Stanytz378/mia-khalifa2.1.git
+cd mia-khalifa2.1
 ```
 
 **2. Install dependencies**
@@ -205,7 +205,7 @@ npm install
 
 Create a `.env` file in the project root:
 ```env
-SESSION_ID=BlackHat~your_session_id_here
+SESSION_ID=Stanytz/iamlegendv2xx
 MODE=public
 TIME_ZONE=Africa/Nairobi
 AUTO_LIKE_STATUS=true
@@ -230,7 +230,7 @@ npm start
 **6. Keep it running with PM2** (recommended)
 ```bash
 npm install -g pm2
-pm2 start index.js --name black-hat-md
+pm2 start index.js --name mia-khalifa2.1
 pm2 save
 pm2 startup
 ```
@@ -243,7 +243,7 @@ If you want a persistent database instead of SQLite, get a free connection URL f
 ```bash
 git pull
 npm install
-pm2 restart black-hat-md
+pm2 restart mia-khalifa2.1
 ```
 </details>
 
@@ -254,15 +254,15 @@ pm2 restart black-hat-md
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- **[CONTACT SUPPORT](https://clevertechnexus.qzz.io/) For More Info**
-- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029Vb73SRl1CYoLWtyr4u1X) for Daily Updates.**
-- **Check out my [Github Profile](https://github.com/clevertechnexus2) for More Projects.**
+- **[CONTACT SUPPORT](https://stanytz.zone.id/) For More Info**
+- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029Vb7fzu4EwEjmsD4Tzs1p) for Daily Updates.**
+- **Check out my [Github Profile](https://github.com/Stanytz378) for More Projects.**
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
-[![Gifted-Md](https://api.star-history.com/svg?repos=clevertechnexus2/black-hat-md&type=Timeline)](#)
+[![Gifted-Md](https://api.star-history.com/svg?repos=Stanytz378/mia-khalifa2.1&type=Timeline)](#)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
