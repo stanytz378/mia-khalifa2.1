@@ -16,13 +16,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
-<a href="https://github.com/clevertechnexus2"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-CLEVER TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/clevertechnexus2"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-STANY TZ-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Stanytz378?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/clevertechnexus2?label=Followers&style=social"></a>
-<a href="https://github.com/Stanytz378/mia-khalifa2.1/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/clevertechnexus2/black-hat-md?&style=social"></a>
-<a href="https://github.com/Stanytz378/mia-khalifa2.1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/clevertechnexus2/black-hat-md?style=social"></a>
-<a href="https://github.com/Stanytz378/mia-khalifa2.1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/clevertechnexus2/black-hat-md?label=Watching&style=social"></a>
+<a href="https://github.com/Stanytz378?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Stanytz378?label=Followers&style=social"></a>
+<a href="https://github.com/Stanytz378/mia-khalifa2.1/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Stanytz378/mia-khalifa2.1?&style=social"></a>
+<a href="https://github.com/Stanytz378/mia-khalifa2.1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Stanytz378/mia-khalifa2.1?style=social"></a>
+<a href="https://github.com/Stanytz378/mia-khalifa2.1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Stanytz378/mia-khalifa2.1?label=Watching&style=social"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -34,7 +34,7 @@
   
 - This is essential for you to obtain your own safe forked deployable repo especially heroku users.
 
-<a href="https://github.com/Stanytz378/black-hat-md/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK 𝐁𝐋𝐀𝐂𝐊 𝐇𝐀𝐓 𝐌𝐃" width="150"></a>
+<a href="https://github.com/Stanytz378/mia-khalifa2.1/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK 𝐁𝐋𝐀𝐂𝐊 𝐇𝐀𝐓 𝐌𝐃" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
