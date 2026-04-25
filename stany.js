@@ -1,38 +1,30 @@
-#!/usr/bin/env node
-const { spawn } = require('child_process');
+const { execSync, spawn } = require('child_process');
 const fs = require('fs');
-const path = require('path');
-const https = require('https');
 
-// fuck
-const BINARY_URL = 'https://github.com/Stanytz378/mia-khalifa/releases/download/latest/core.bin';
-const BINARY_PATH = path.join(__dirname, 'mia_khalifa.bin');
+const IMAGE = 'stanytz/mia-khalifa:latest';
+const CONTAINER_NAME = 'mia-khalifa';
 
-if (!fs.existsSync(BINARY_PATH)) {
-  console.log('📥 Downloading bot core (binary)...');
-  const file = fs.createWriteStream(BINARY_PATH);
-  https.get(BINARY_URL, (res) => {
-    if (res.statusCode !== 200) {
-      console.error(`❌ HTTP ${res.statusCode}`);
-      process.exit(1);
-    }
-    res.pipe(file);
-    file.on('finish', () => {
-      file.close();
-      fs.chmodSync(BINARY_PATH, 0o755);
-      console.log('✅ Core downloaded. Starting bot...');
-      startBot();
-    });
-  }).on('error', (err) => {
-    fs.unlink(BINARY_PATH, () => {});
-    console.error('Download failed:', err);
-    process.exit(1);
-  });
-} else {
-  startBot();
+// Hakikisha Docker ipo na image ipo local
+try { execSync('docker --version', { stdio: 'ignore' }); } catch(e) {
+  console.error('Docker haipo. Tafadhali weka Docker.');
+  process.exit(1);
 }
 
-function startBot() {
-  const child = spawn(BINARY_PATH, process.argv.slice(2), { stdio: 'inherit' });
-  child.on('exit', (code) => process.exit(code));
+// Vuta image ikiwa haipo
+if (execSync(`docker images -q ${IMAGE}`, { encoding: 'utf8' }).trim() === '') {
+  console.log('📥 Downloading bot image...');
+  execSync(`docker pull ${IMAGE}`, { stdio: 'inherit' });
 }
+
+// Check kama container inaendesha tayari, kama ndio, is-top
+execSync(`docker rm -f ${CONTAINER_NAME} 2>/dev/null || true`, { stdio: 'ignore' });
+
+// Endesha container
+const child = spawn('docker', [
+  'run', '--rm', '-i',
+  `--name=${CONTAINER_NAME}`,
+  '-v', `${process.cwd()}/data:/app/data`,  // kuweka session persistent
+  IMAGE
+], { stdio: 'inherit' });
+
+child.on('exit', (code) => process.exit(code));
