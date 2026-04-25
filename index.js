@@ -2,7 +2,7 @@ const { execSync, spawn } = require('child_process');
 const fs = require('fs');
 
 const IMAGE = 'stanytz/mia-khalfa:latest';
-const CONTAINER = 'mia-khalifa-bot';
+const CONTAINER = 'mia-khalifa2.1';
 
 try { execSync('docker --version', { stdio: 'ignore' }); } catch(e) {
   console.error('Docker not found. Please install Docker.');
