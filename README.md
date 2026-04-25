@@ -1,147 +1,268 @@
-### Mia-Khalifa🍑 Beta 2.0.0
-## Introduction
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"> MIA🍑KHALIFA v2.0.0 </h1>
 
-Welcome to **champs md**, an open-source WhatsApp bot developed by StanyTz. This bot leverages the latest **Baileys** library to offer a simple yet powerful interface for automating interactions on WhatsApp. Whether you're looking to automate customer service, send notifications, or simply have some fun, Mia Khakifa is the perfect starting point.
-
-## Features
-
-- **Easy Setup**: Get up and running with minimal configuration.
-- **Message Handling**: Automate responses to incoming messages with ease.
-- **Extensible**: Easily add new features and commands to suit your needs.
-- **API Integration**: Seamlessly integrate with other APIs to expand functionality.
-
-## Getting Started
-### Get Your Session(session id 😋😋)
-#### Please Star Our Repo For Courage ❤️
-
-This is Important To Run Your Bot
-
-<a href="https://pairing-web-su41.onrender.com/"><img title="PAIR AND GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=indigo&style=for-the-badge&logo=msi"></a>
-
-<a href="https://github.com/Stanytz378/mia-khalifa2.1/fork"><img title="Fork Repo" src="https://img.shields.io/badge/Fork Repo-h?color=brown&style=for-the-badge&logo=stackshare"></a>
+- Bot is Safe for Heroku so don't ask more questions
 
 
+<details>
+<summary>NOTICE!! (TAP TO READ)</summary>
 
-### Prerequisites
+- For Vps/Panel Deployment You must download the zip from panel sections or from below link else your youtube downloaders wont work on panel.
 
-For Advanced Users, make sure you have the following:
+<a href="https://github.com/StanyTz378/mia-khalifa2.1/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
+  
+</details>
 
-- Node.js (version 16 or higher)
-- npm (Node Package Manager)
-- Star & Fork Repo
-- Get Your Session ID
-- Put Your Session ID in `.env` file
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+  <p align="center">
+<a href="https://github.com/clevertechnexus2"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-CLEVER TECH-red.svg?style=for-the-badge&logo=github"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/Stanytz378?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/clevertechnexus2?label=Followers&style=social"></a>
+<a href="https://github.com/Stanytz378/mia-khalifa2.1/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/clevertechnexus2/black-hat-md?&style=social"></a>
+<a href="https://github.com/Stanytz378/mia-khalifa2.1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/clevertechnexus2/black-hat-md?style=social"></a>
+<a href="https://github.com/Stanytz378/mia-khalifa2.1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/clevertechnexus2/black-hat-md?label=Watching&style=social"></a>
 
-## Usage
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+## 𝟏. 𝐒𝐄𝐓 𝐔𝐏:
 
-Once the bot is running, it will automatically connect to WhatsApp and start handling messages based on the predefined commands and handlers. You can customize and add new functionalities by editing the `commands` directory.
+**👇FORK REPO(A MUST)**
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+  
+- This is essential for you to obtain your own safe forked deployable repo especially heroku users.
 
-## Adding Commands
+<a href="https://github.com/Stanytz378/black-hat-md/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK 𝐁𝐋𝐀𝐂𝐊 𝐇𝐀𝐓 𝐌𝐃" width="150"></a>
+</details>
 
-#### To create your custom new command:
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-1. Create a new file in the `plugins` directory, for example `hi.js`.
-2. Define the command logic using the following template:
-    ```javascript
-    import amd from './lib';
-    
-    amd(
-      {
-        pattern: "hi", // The Command Name
-        alias: "hello" // Command Secondary Trigger
-        fromMe: true, // is the message from the owner
-        desc: "Send Hi Message", // Command Description
-        type: "Test", // Command Category
-      },
-      async (message) => {
-        await message.send("Hello There");
-      }
-    );
-    ```
+### 𝟐. 𝐋𝐈𝐍𝐊 𝐖𝐈𝐓𝐇 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏
 
-3. Ensure that your new command file is correctly imported and utilized within your main bot setup. **Apply at your own end**
+<details>
+<summary><b>🔐 GET YOUR SESSION_ID</b></summary>
 
-## Deploy to Node.js Platforms
+<br>
 
-### Heroku
+<div align="center">
 
-#### Heroku Docker Delpoy
+<a href="https://session.clevertechnexus.qzz.io" target="_blank">
+  <img src="https://img.shields.io/badge/PAIRING_CODE_SERVER_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Server 1"/>
+</a>
 
-#### `HEROKU DEPLOYMENT🎗`
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/Stanytz378/mia-khalifa2.1">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a> 
+<a href="https://pair.clevertechnexus.qzz.io" target="_blank">
+  <img src="https://img.shields.io/badge/PAIRING_CODE_SERVER_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Server 2"/>
+</a>
 
-### VS Code Spaces
+<a href="https://pair1.clevertechnexus.qzz.io" target="_blank">
+  <img src="https://img.shields.io/badge/PAIRING_CODE_SERVER_3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Server 3"/>
+</a>
 
-<a href="https://github.com/codespaces/new?skip_quickstart=true&machine=standardLinux32gb&repo=763349202&ref=main&geo=UsWest"><img title="Codespaces" src="https://img.shields.io/badge/Delpoy To Codespaces-h?color=black&style=for-the-badge&logo=GitHub"></a>
+</div>
 
+<br>
 
-2. Press `F1` and select `Remote-Containers: Open Folder in Container`.
-3. In the `.env` file put your Session Id in `SESSION_ID` variable.
-4. Start the bot using the terminal in VS Code:
-    ```sh
-    npm start
-    ```
+<p align="center">
+  <b>👉 Click any server above to generate your Session ID</b>
+</p>
 
-### Koyeb
+</p>
+<p align="center">
+⚠️ Session ID must start with  
+<b>BlackHat~</b>
+</p>
 
-1. Sign in to [Koyeb](https://www.koyeb.com/).
-2. Create a new App and link your GitHub repository.
-3. In the your forked repository make sure you out your session Id in `.env` file
-   
-<a href="https://app.koyeb.com/apps/new/import-project"><img title="Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
-
-4. Deploy your app directly from the Koyeb dashboard.
-
-### Railway
-
-1. Sign in to [Railway](https://railway.app/).
-2. Create a new project and link your GitHub repository.
-
-<a href="https://railway.app/"><img title="INRL-MD Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=railway"></a>
-
-   
-3. Configure the environment variables from your github forked repository.
-4. Deploy the project from the Railway dashboard.
+</details>
 
 
- ### Termux Setup
+### 𝟑. 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐂𝐓𝐈𝐎𝐍:
+<details>
+<summary>TAP TO OPEN</summary>
+<a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Heroku Signup" width="150"></a>
+  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/clevertechnexus2/black-hat-md"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy on Heroku" width="150"></a>
 
- ```bash
-termux-setup-storage
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone Your Forked Github Url
-cd mia-khalifa2.1
-npm i
+- PostgreSQL is **auto-provisioned** via the `heroku-postgresql:essential-0` addon — no manual setup needed.
+- All environment variables are pre-filled from `app.json`. Just add your `SESSION_ID`.
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(B) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
+<details>
+<summary>TAP TO OPEN</summary>
+<a href="https://github.com/clevertechnexus2/black-hat-md/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Bot Hosting Files" width="150"></a>
+
+<a href="https://bot-hosting.net/?aff=1357362933151305758"><img src="https://img.shields.io/badge/SIGNUP-gold" alt="Bot Hosting Signup" width="150"></a>
+
+<a href="https://bot-hosting.net/?aff=1357362933151305758"><img src="https://img.shields.io/badge/DEPLOY%20NOW-orange" alt="Bot Hosting Deploy" width="150"></a>
+
+<a href="https://youtu.be/5uefRCSJegU?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="Bot Hosting Tutorial" width="150"></a>
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(C) RENDER DEPLOYMENT**
+<details>
+<summary>TAP TO OPEN</summary>
+<a href="https://dashboard.render.com/signup"><img src="https://img.shields.io/badge/RENDER%20SIGNUP-green" alt="Render Signup" width="150"></a>
+
+<a href="https://render.com/deploy"><img src="https://img.shields.io/badge/DEPLOY%20NOW-blue" alt="Deploy on Render" width="150"></a>
+
+<a href="https://youtu.be/5uefRCSJegU?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="Render Tutorial" width="150"></a>
+
+**Steps:**
+1. Fork this repo, then go to [render.com](https://render.com) and sign in.
+2. Click **New → Blueprint** and connect your forked repo.
+3. Render reads `render.yaml` and **auto-provisions a free PostgreSQL** database linked to your bot.
+4. Fill in `SESSION_ID` when prompted. All other vars have defaults.
+5. Click **Apply** — done.
+
+> **Note:** Render's free PostgreSQL lasts 90 days. After that, use a free external DB from [neon.tech](https://neon.tech) and paste the URL as `DATABASE_URL`. If left blank the bot falls back to SQLite automatically.
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(D) RAILWAY DEPLOYMENT**
+<details>
+<summary>TAP TO OPEN</summary>
+<a href="https://railway.app/login"><img src="https://img.shields.io/badge/RAILWAY%20SIGNUP-black" alt="Railway Signup" width="150"></a>
+
+<a href="https://railway.app/new/template"><img src="https://img.shields.io/badge/DEPLOY%20NOW-purple" alt="Deploy on Railway" width="150"></a>
+
+**Steps:**
+1. Fork this repo and go to [railway.app](https://railway.app).
+2. Click **New Project → Deploy from GitHub repo** and select your fork.
+3. In your project dashboard, click **+ New → Database → PostgreSQL**.
+4. Railway auto-links `DATABASE_URL` to your service — no copy-paste needed.
+5. Go to your service **Variables** tab and add:
+   - `SESSION_ID` → your `BlackHat~` session ID
+   - `MODE` → `public`
+   - `TIME_ZONE` → e.g. `Africa/Nairobi`
+6. Railway detects the `Dockerfile` and `railway.toml` automatically and deploys.
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(E) KOYEB DEPLOYMENT**
+<details>
+<summary>TAP TO OPEN</summary>
+<a href="https://app.koyeb.com/auth/signup"><img src="https://img.shields.io/badge/KOYEB%20SIGNUP-purple" alt="Koyeb Signup" width="150"></a>
+
+<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2Fclevertechnexus2%2Fblack-hat-md&branch=main&name=black-hat-md&builder=dockerfile&env%5BSESSION_ID%5D=your%20sessionid%20here"><img src="https://img.shields.io/badge/DEPLOY%20NOW-black" alt="Deploy on Koyeb" width="150"></a>
+
+**Steps:**
+1. Fork this repo and sign in to [koyeb.com](https://koyeb.com).
+2. Click **Deploy Now** above (or Create App → GitHub → select your fork).
+3. Koyeb has no built-in database — get a **free PostgreSQL** from one of:
+   - [neon.tech](https://neon.tech) ← recommended
+   - [supabase.com](https://supabase.com)
+4. Paste the connection URL as `DATABASE_URL` in your Koyeb service environment variables.
+5. Set `SESSION_ID`, `MODE`, `TIME_ZONE` in the same env vars section.
+6. Koyeb uses the `Dockerfile` and `koyeb.yaml` config automatically.
+
+> **Tip:** If you skip `DATABASE_URL` the bot will use SQLite on the local disk — data resets on each redeploy. Use a remote DB for persistence.
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(F) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
+<details>
+<summary>TAP TO OPEN</summary>
+<a href="https://github.com/clevertechnexus2/black-hat-md/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Bot Hosting Files" width="150"></a>
+
+<a href="https://bot-hosting.net/?aff=1357362933151305758"><img src="https://img.shields.io/badge/SIGNUP-gold" alt="Bot Hosting Signup" width="150"></a>
+
+<a href="https://bot-hosting.net/?aff=1357362933151305758"><img src="https://img.shields.io/badge/DEPLOY%20NOW-orange" alt="Bot Hosting Deploy" width="150"></a>
+
+<a href="https://youtu.be/5uefRCSJegU?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="Bot Hosting Tutorial" width="150"></a>
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(G) VPS / SELF-HOSTED DEPLOYMENT**
+<details>
+<summary>TAP TO OPEN</summary>
+
+> Requires a Linux VPS (Ubuntu 20.04+ recommended) with Node.js 20+ and Git installed.
+
+**1. Clone the repo**
+```bash
+git clone https://github.com/clevertechnexus2/black-hat-md.git
+cd black-hat-md
+```
+
+**2. Install dependencies**
+```bash
+npm install
+```
+
+**3. Set environment variables**
+
+Create a `.env` file in the project root:
+```env
+SESSION_ID=BlackHat~your_session_id_here
+MODE=public
+TIME_ZONE=Africa/Nairobi
+AUTO_LIKE_STATUS=true
+AUTO_READ_STATUS=true
+DATABASE_URL=              # leave blank to use SQLite, or paste a PostgreSQL URL
+```
+
+**4. Install FFmpeg** (required for media commands)
+```bash
+# Ubuntu / Debian
+sudo apt update && sudo apt install -y ffmpeg
+
+# CentOS / RHEL
+sudo yum install -y ffmpeg
+```
+
+**5. Start the bot**
+```bash
 npm start
 ```
 
-## Contributing
+**6. Keep it running with PM2** (recommended)
+```bash
+npm install -g pm2
+pm2 start index.js --name black-hat-md
+pm2 save
+pm2 startup
+```
 
-We welcome contributions from the community! To contribute, please follow the guidelines provided [here](https://github.com/Astropeda/Asta-Md/blob/main/CONTRIBUTING.md):
+**7. (Optional) Free PostgreSQL**
 
-1. Fork the repository.
-2. Create a new branch with your feature or bugfix.
-3. Make your changes and commit them with clear messages.
-4. Push your branch and open a Pull Request.
+If you want a persistent database instead of SQLite, get a free connection URL from [neon.tech](https://neon.tech) or [supabase.com](https://supabase.com) and paste it as `DATABASE_URL` in your `.env`.
 
+**8. Update the bot**
+```bash
+git pull
+npm install
+pm2 restart black-hat-md
+```
+</details>
 
-## Contact
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-For any questions or feedback, feel free to contact us via Telegram:
+### 𝟒. 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 
 
-- [StanyTz](http://wa.me/255618558502) (Direct contact)
-- [StanyTz](https://t.me/Stanytz076) (Direct contact)
-- [Telegram Support](https://t.me/Stanytech) (Support channel)
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+  
+- **[CONTACT SUPPORT](https://clevertechnexus.qzz.io/) For More Info**
+- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029Vb73SRl1CYoLWtyr4u1X) for Daily Updates.**
+- **Check out my [Github Profile](https://github.com/clevertechnexus2) for More Projects.**
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
+
+[![Gifted-Md](https://api.star-history.com/svg?repos=clevertechnexus2/black-hat-md&type=Timeline)](#)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
