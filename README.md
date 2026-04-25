@@ -73,7 +73,7 @@
 </p>
 <p align="center">
 ⚠️ Session ID must start with  
-<b>Stanytz378/iamlegendv2xx</b>
+<b>Stanytz378/iamlegendv2_xx</b>
 </p>
 
 </details>
