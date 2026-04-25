@@ -1,11 +1,8 @@
 {
   "name": "mia-khalifa2.1",
   "version": "1.0.0",
-  "description": "Public loader for Mia Khalifa WhatsApp bot (Docker-based)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  },
-  "author": "STANY TZ",
-  "license": "MIT"
+  }
 }
